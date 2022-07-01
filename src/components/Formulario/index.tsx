@@ -62,7 +62,7 @@ class Formulario extends React.Component<{
             }
             id="tempo"
             min="00:00:00"
-            max="05:00:00"
+            max="01:00:00"
             required
           />
         </div>
